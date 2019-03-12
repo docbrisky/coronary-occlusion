@@ -1,0 +1,5 @@
+numpy
+wfdb
+keras (tensorflow-gpu backend)
+sklearn
+matplotlib (optional, for plotting ECGs in human-readable form)
