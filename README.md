@@ -1,6 +1,6 @@
 Many thanks for taking the time to visit this repository.
 
-Here you will find the source code used to train a deep learning classifier for hyper-acute detection of ECG changes caused by complete coronary artery occlusion.
+Here you will find the source code used to train a deep learning classifier for hyper-acute detection of ECG changes caused by complete coronary artery occlusion. The preprint version of the paper can be found at https://arxiv.org/abs/1903.04421
 
 TECHNICAL NOTES:
 The libraries you will require to run the code (beyond those included as standard in Python 3.6) are listed in "python-dependencies.txt"
