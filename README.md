@@ -15,7 +15,7 @@ The code was originally executed on a machine with the following specifications:
 Without a CUDA-enabled system and TensorFlow set up to run on the GPU, the code may take a long time to execute. (On the system detailed above, the whole experiment can be exectued overnight.) Parts of the code required the full 32GB of RAM, so lower-spec systems may require workarounds.
 
 EXECUTION NOTES:
-Initially, a feasilibity experiment was run using limited data (see "first-training.py"). This produced encouraging results, so the system was fine-tuned on extended data (see "second-training.py"). For this reason, the training process is split into two parts and sets of training data are downloaded. This set-up could, of course, be streamlined. However, the intention was to reproduce the source code for the experiment exactly as it was run to produce the results in the paper.
+Initially, a feasilibity experiment was run using limited data (see "first-training.py"). This produced encouraging results, so the system was fine-tuned on extended data (see "second-training.py"). For this reason, the training process is split into two parts and two sets of training data are downloaded. This set-up could, of course, be streamlined. However, the intention was to reproduce the source code for the experiment exactly as it was run to produce the results in the paper.
 
 To run the scripts in order: download this repository, navigate to it in a terminal window then copy and paste the following command:
 
